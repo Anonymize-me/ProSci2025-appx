@@ -11,9 +11,9 @@ This appendix contains additional material for the related paper.
 &#x02520; Appx - Tasks.pdf  
 &#x02520; Appx - Measures (metrics applied to models).pdf  
 &#x02520; [analysis]  
-&#x02503;&#x2003;&#x02520; Analysis (Coarse-grained-2).pub.ipynb  
-&#x02503;&#x2003;&#x02520; Analysis (Fine-grained-1).pub.v0.ipynb  
-&#x02503;&#x2003;&#x02520; Analysis (Fine-grained-2).pub.ipynb  
+&#x02503;&#x2003;&#x02520; Analysis (Coarse-grained).ipynb  
+&#x02503;&#x2003;&#x02520; Analysis (Fine-grained-1).ipynb  
+&#x02503;&#x2003;&#x02520; Analysis (Fine-grained-2).ipynb  
 &#x02503;&#x2003;&#x02520; [utils]
 &#x02503;&#x2003;&#x02517; constants.py  
 &#x02520; [hq-img]  
