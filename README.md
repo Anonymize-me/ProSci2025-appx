@@ -14,7 +14,7 @@ This appendix contains additional material for the related paper.
 &#x02503;&#x2003;&#x02520; Analysis (Coarse-grained).ipynb  
 &#x02503;&#x2003;&#x02520; Analysis (Fine-grained-1).ipynb  
 &#x02503;&#x2003;&#x02520; Analysis (Fine-grained-2).ipynb  
-&#x02503;&#x2003;&#x02520; [utils]
+&#x02503;&#x2003;&#x02520; [utils]  
 &#x02503;&#x2003;&#x02517; constants.py  
 &#x02520; [hq-img]  
 &#x02503;&#x2003;&#x02520; fine-grained_analysis_AoIs_over_time.P22T7_5_19.pdf  
