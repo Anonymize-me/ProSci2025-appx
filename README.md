@@ -11,7 +11,7 @@ This appendix contains additional material for the related paper.
 &#x02520; Appx - Tasks.pdf  
 &#x02520; Appx - Measures (metrics applied to models).pdf  
 &#x02520; [analysis]  
-&#x02503;&#x2003;&#x02520; Analysis (Coarse-grained).ipynb  
+&#x02503;&#x2003;&#x02520; Analysis (Coarse-grained-2).ipynb  
 &#x02503;&#x2003;&#x02520; Analysis (Fine-grained-1).ipynb  
 &#x02503;&#x2003;&#x02520; Analysis (Fine-grained-2).ipynb  
 &#x02503;&#x2003;&#x02520; [utils]  
@@ -21,11 +21,20 @@ This appendix contains additional material for the related paper.
 &#x02503;&#x2003;&#x02520; Research_model1.pdf  
 &#x02503;&#x2003;&#x02520; Research_model2.pdf  
 &#x02503;&#x2003;&#x02520; Fine-grained_analysis_dist_fixation.pdf  
-&#x02503;&#x2003;&#x02517; Fine-grained_analysis_dist_aoirc.pdf  
+&#x02503;&#x2003;&#x02520; Fine-grained_analysis_dist_aoirc.pdf  
+&#x02503;&#x2003;&#x02520; Model_Complex_accidental.pdf  
+&#x02503;&#x2003;&#x02520; Model_Complex_essential.pdf  
+&#x02503;&#x2003;&#x02520; Model_Composed_accidental.pdf  
+&#x02503;&#x2003;&#x02520; Model_Composed_essential.pdf  
+&#x02503;&#x2003;&#x02520; Model_Simplepdf  
+&#x02503;&#x2003;&#x02517; Task - Display.pdf  
 &#x02517; [models-img]  
 &#x2003;&#x2003;&#x02520; model-g1.png - "dummy model" (not used in the analysis)  
 &#x2003;&#x2003;&#x02520; model-g2.png - model with high essential complexity  
 &#x2003;&#x2003;&#x02520; model-g3.png - model with low essential and accidental complexity  
+&#x2003;&#x2003;&#x02520; model-g4.png - composed model with high essential complexity  
+&#x2003;&#x2003;&#x02520; model-g5.png - model with high accidental complexity  
+&#x2003;&#x2003;&#x02520; model-g6.png - composed model with high accidental complexity  
 &#x2003;&#x2003;&#x02520; model-g4.png - composed model with simple and complex (high essential complexity) parts  
 &#x2003;&#x2003;&#x02520; model-g5.png - model with high accidental complexity  
 &#x2003;&#x2003;&#x02517; model-g6.png - composed model with simple and complex (high accidental complexity) parts  
