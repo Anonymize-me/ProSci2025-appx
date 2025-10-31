@@ -32,9 +32,6 @@ This appendix contains additional material for the related paper.
 &#x2003;&#x2003;&#x02520; model-g1.png - "dummy model" (not used in the analysis)  
 &#x2003;&#x2003;&#x02520; model-g2.png - model with high essential complexity  
 &#x2003;&#x2003;&#x02520; model-g3.png - model with low essential and accidental complexity  
-&#x2003;&#x2003;&#x02520; model-g4.png - composed model with high essential complexity  
-&#x2003;&#x2003;&#x02520; model-g5.png - model with high accidental complexity  
-&#x2003;&#x2003;&#x02520; model-g6.png - composed model with high accidental complexity  
 &#x2003;&#x2003;&#x02520; model-g4.png - composed model with simple and complex (high essential complexity) parts  
 &#x2003;&#x2003;&#x02520; model-g5.png - model with high accidental complexity  
 &#x2003;&#x2003;&#x02517; model-g6.png - composed model with simple and complex (high accidental complexity) parts  
