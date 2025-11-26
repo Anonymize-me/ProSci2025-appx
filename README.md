@@ -60,7 +60,7 @@ The Python **notebooks** are available in the directory 'analysis'.
 Images used in the paper in original or high quality format.
 
 ### Luminance
-Screen patures used to compute the global luminance (for the control of luminance during the data collection).
+Screen captures used to compute the global luminance (for the control of luminance during the data collection).
 
 ### Models Img
 Images of models designed for the experiment.
