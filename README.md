@@ -53,11 +53,14 @@ The **tasks** used in the experiment are detailed in the file 'Appx - Tasks.pdf'
 A high-resolution image of each **process model** used in the experiment is available in the directory 'models-img'.  
 The **measures** computed for each metric are reported in the file 'Appx - Measures (metrics applied to models).pdf'.
 
+### Analysis
+The Python **notebooks** are available in the directory 'analysis'.  
+
 ### HQ Img
 Images used in the paper in original or high quality format.
 
-### Analysis
-The Python **notebooks** are available in the directory 'analysis'.  
+### Luminance
+Screen patures used to compute the global luminance (for the control of luminance during the data collection).
 
 ### Models Img
 Images of models designed for the experiment.
