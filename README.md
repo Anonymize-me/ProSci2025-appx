@@ -28,6 +28,16 @@ This appendix contains additional material for the related paper.
 &#x02503;&#x2003;&#x02520; Model_Composed_essential.pdf  
 &#x02503;&#x2003;&#x02520; Model_Simplepdf  
 &#x02503;&#x2003;&#x02517; Task - Display.pdf  
+&#x02520; [luminance]  
+&#x02503;&#x2003;&#x02520; Luminance.pdf  
+&#x02503;&#x2003;&#x02520; Luminance.png  
+&#x02503;&#x2003;&#x02520; [EyeMindApp - models]  
+&#x02503;&#x2003;&#x02003;&#x2003;&#x02520; g1.png  
+&#x02503;&#x2003;&#x02503;&#x2003;&#x02520; g1-in.png  
+&#x02503;&#x2003;&#x02003;&#x2003;&#x02520; g1-out.png  
+&#x02503;&#x2003;&#x02003;&#x2003;&#x02520; g2.png
+&#x02503;&#x2003;&#x02003;&#x2003;&#x02520; g2-in.png
+&#x02503;&#x2003;&#x02003;&#x2003;&#x02517; g2-out.png  
 &#x02517; [models-img]  
 &#x2003;&#x2003;&#x02520; model-g1.png - "dummy model" (not used in the analysis)  
 &#x2003;&#x2003;&#x02520; model-g2.png - model with high essential complexity  
