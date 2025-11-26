@@ -31,9 +31,9 @@ This appendix contains additional material for the related paper.
 &#x02520; [luminance]  
 &#x02503;&#x2003;&#x02520; Luminance.pdf  
 &#x02503;&#x2003;&#x02520; Luminance.png  
-&#x02503;&#x2003;&#x02520; [EyeMindApp - models]  
+&#x02503;&#x2003;&#x02517; [EyeMindApp - models]  
 &#x02503;&#x2003;&#x02003;&#x2003;&#x02520; g1.png  
-&#x02503;&#x2003;&#x02503;&#x2003;&#x02520; g1-in.png  
+&#x02503;&#x2003;&#x02003;&#x2003;&#x02520; g1-in.png  
 &#x02503;&#x2003;&#x02003;&#x2003;&#x02520; g1-out.png  
 &#x02503;&#x2003;&#x02003;&#x2003;&#x02520; g2.png  
 &#x02503;&#x2003;&#x02003;&#x2003;&#x02520; g2-in.png  
