@@ -37,12 +37,8 @@ This appendix contains additional material for the related paper.
 &#x02503;&#x2003;&#x02003;&#x2003;&#x02520; g1-out.png  
 &#x02503;&#x2003;&#x02003;&#x2003;&#x02520; g2.png  
 &#x02503;&#x2003;&#x02003;&#x2003;&#x02520; g2-in.png  
-<<<<<<< HEAD
 &#x02503;&#x2003;&#x02003;&#x2003;&#x02520; g2-out.png  
 &#x02503;&#x2003;&#x02003;&#x2003;&#x02517; ...  
-=======
-&#x02503;&#x2003;&#x02003;&#x2003;&#x02517; g2-out.png  
->>>>>>> b6fa944e8c9d6878b3dbd44fba671a762124580a
 &#x02517; [models-img]  
 &#x2003;&#x2003;&#x02520; model-g1.png - "dummy model" (not used in the analysis)  
 &#x2003;&#x2003;&#x02520; model-g2.png - model with high essential complexity  
